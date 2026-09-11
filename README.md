@@ -82,5 +82,5 @@ Este proyecto es un prototipo desarrollado con fines **académicos, de investiga
 
 **Seykarim R. Mestre Zalabata**  
 *Ingeniero Electrónico | Innovación en Salud & IoT Territorial*  
-Valledupar, Cesar, Colombia  
+Pueblo Bello - Jewrwa, Cesar, Colombia  
 [![GitHub](https://img.shields.io/badge/GitHub-Seykarim-181717?style=flat&logo=github)](https://github.com/Seykarim)
